@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src="https://phandroid.s3.amazonaws.com/wp-content/uploads/2015/05/Netflix_4K_UI.jpg" alt="" />
+
 ## Available Scripts
 
 In the project directory, you can run:
